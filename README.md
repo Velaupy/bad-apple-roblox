@@ -12,4 +12,4 @@ guide:
 
 3. play-test the game in Run mode (make sure to have the console/output open to see details and information)
 
-4. wait for studio to finish fetching all the video frames (takes ~2 minutes) after that it should start playing automatically
+4. wait for studio to finish fetching all the video frames (takes ~2 minutes); after that it should start playing automatically
