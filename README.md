@@ -14,4 +14,4 @@ to install the required python modules, run "pip install -r requirements.txt" in
 
 4. wait for studio to finish fetching all the video frames (takes ~2 minutes); after that it should start playing automatically
 
-**any "Request limit exceeded" errors are safe to ignore, the script will wait until roblox studio allows it to continue requesting data**
+**any "Number of requests exceeded limit" errors are safe to ignore, the script will wait until roblox studio allows it to continue requesting data**
