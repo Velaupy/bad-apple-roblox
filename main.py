@@ -1,6 +1,6 @@
 from http.server	import HTTPServer,BaseHTTPRequestHandler
 from win32api		import SetConsoleTitle as title
-from json			import dumps as encodeJSON
+from json		import dumps as encodeJSON
 import os,cv2 as cv
 
 vidName =	"video.mp4"
